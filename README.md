@@ -1,6 +1,7 @@
 # OIBSIP-Task---3
 
 Task3: Car Price Prediction Project
+
 I developed a model to predict car prices based on various factors.Leveraging the "CarPrice" dataset, I utilized data preprocessing, visualization, and Linear Regression to achieve accurate predictions.
 Key Highlights:
 ✅ Data Preprocessing: Handled missing values and converted categorical data to numerical representations.
